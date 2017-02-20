@@ -1,0 +1,22 @@
+{
+  "name": "express-admin",
+  "version": "1.0.0",
+  "description": "Admin Panel in node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "Express",
+    "Admin"
+  ],
+  "author": "Rajan Middha",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.14.1",
+    "logger": "0.0.1",
+    "morgan": "^1.8.1",
+    "mysql": "^2.13.0"
+  }
+}
